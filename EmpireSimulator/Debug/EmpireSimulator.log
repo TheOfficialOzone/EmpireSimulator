@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\OwenZ\source\repos\EmpireSimulator\EmpireSimulator\main.cpp(12,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\OwenZ\source\repos\EmpireSimulator\EmpireSimulator\World\World.h(13,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\OwenZ\source\repos\EmpireSimulator\EmpireSimulator\main.cpp(65,23): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\OwenZ\source\repos\EmpireSimulator\EmpireSimulator\main.cpp(97,21): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  EmpireSimulator.vcxproj -> C:\Users\OwenZ\source\repos\EmpireSimulator\Debug\EmpireSimulator.exe
